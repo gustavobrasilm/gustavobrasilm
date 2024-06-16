@@ -22,7 +22,4 @@ Bem-vindo ao meu perfil do GitHub! 👋
   
 Obrigado por visitar o meu perfil!
 
-<div>
- <a href="https://instagram.com/gustavobrasilm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/gustavobrasilm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
+
